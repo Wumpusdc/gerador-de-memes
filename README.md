@@ -1,1 +1,1 @@
-# gerador-de-memes
+# AVISO AINDA ESTOU APRENDENDO TYPESCRIPT
